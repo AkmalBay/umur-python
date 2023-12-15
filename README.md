@@ -1,0 +1,1 @@
+sc menghitung umur dengan satuan tahun=365hari dan bulan=30hari
